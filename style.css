@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat';font-size: 2em;
+    background-color: bisque;
+}
+#labelId{
+    display: block;
+    text-align: center;
+    font-size: 5em;
+}
+
+#divContainer{
+    display: block;
+    text-align: center;
+ 
+}
+.btnHere{
+    padding: 2px 3px;
+    background-color: rgb(244, 248, 247);
+    font-size: 1.4em;
+    border-radius: 15px;
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+#btnOne:hover{
+    background-color: rgb(241, 189, 254);
+    box-shadow: 2px 5px 2px rgba(250, 186, 35, 0.585);
+    
+}
+
+#btnTwo:hover{
+    background-color: rgb(249, 106, 128);
+    box-shadow: 2px 5px 2px rgba(11, 43, 60, 0.585);
+    
+}
+
+#btnThree:hover{
+    background-color: rgb(252, 170, 103);
+    box-shadow: 2px 5px 2px rgb(125, 250, 35);
+    
+}
+
+#myh1{
+    display: block;
+    text-align: center;
+}
